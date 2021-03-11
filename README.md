@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 # Welcome
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=epachols)](https://github.com/epachols/github-readme-stats)
+[![Evan's Github Stats](https://github-readme-stats.vercel.app/api?username=epachols)](https://github.com/epachols/github-readme-stats)
+
+[Resource List:](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools)
