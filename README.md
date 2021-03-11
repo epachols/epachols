@@ -15,8 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome
+
+- 🐍 I’m currently working on doing more with Python
+- 🌱 I’m currently learning Python & Typescript
+- 👯 I’m looking to collaborate on games and native apps
+- 🤔 I’m looking for help with learning c++
+- 💬 Ask me about that time I got fed up with Zoom and made a video conferencing app to spite it.
+- 📫 How to reach me: [My email](mailto:epacholski86@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Once a chef, always a chef 🔪
+
 
 [![Evan's Github Stats](https://github-readme-stats.vercel.app/api?username=epachols)](https://github.com/epachols/github-readme-stats)
 
-[Resource List:](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools)
+<!--START_SECTION:activity-->
+
+
+
+
+
+
+![Visitor Count](https : //profile-counter.glitch.me/epachols/count.svg)
+
+[Resource List: Additional resources Github](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools)
