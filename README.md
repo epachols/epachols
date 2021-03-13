@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 [![Evan's Github Stats](https://github-readme-stats.vercel.app/api?username=epachols)](https://github.com/epachols/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/orcasound/orcamap-react/issues/18) in [orcasound/orcamap-react](https://github.com/orcasound/orcamap-react)
-2. 💪 Opened PR [#18](https://github.com/orcasound/orcamap-react/pull/18) in [orcasound/orcamap-react](https://github.com/orcasound/orcamap-react)
-3. 🎉 Merged PR [#14](https://github.com/orcasound/orcamap-react/pull/14) in [orcasound/orcamap-react](https://github.com/orcasound/orcamap-react)
-4. 💪 Opened PR [#32](https://github.com/apachols/rabble/pull/32) in [apachols/rabble](https://github.com/apachols/rabble)
-5. 💪 Opened PR [#31](https://github.com/apachols/rabble/pull/31) in [apachols/rabble](https://github.com/apachols/rabble)
-6. 💪 Opened PR [#30](https://github.com/apachols/rabble/pull/30) in [apachols/rabble](https://github.com/apachols/rabble)
+1. 🎉 Merged PR [#18](https://github.com/orcasound/orcamap-react/pull/18) in [orcasound/orcamap-react](https://github.com/orcasound/orcamap-react)
+2. 🗣 Commented on [#18](https://github.com/orcasound/orcamap-react/issues/18) in [orcasound/orcamap-react](https://github.com/orcasound/orcamap-react)
+3. 🗣 Commented on [#18](https://github.com/orcasound/orcamap-react/issues/18) in [orcasound/orcamap-react](https://github.com/orcasound/orcamap-react)
+4. 💪 Opened PR [#18](https://github.com/orcasound/orcamap-react/pull/18) in [orcasound/orcamap-react](https://github.com/orcasound/orcamap-react)
+5. 🎉 Merged PR [#14](https://github.com/orcasound/orcamap-react/pull/14) in [orcasound/orcamap-react](https://github.com/orcasound/orcamap-react)
+6. 💪 Opened PR [#32](https://github.com/apachols/rabble/pull/32) in [apachols/rabble](https://github.com/apachols/rabble)
 <!--END_SECTION:activity-->
 
 
