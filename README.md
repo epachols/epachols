@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🐍 I’m currently working on doing more with Python
-- 🌱 I’m currently learning Python & Typescript
+- 🐍 I’m currently working on doing more with AWS
+- 🌱 I’m currently learning more SQL
 - 👯 I’m looking to collaborate on games and native apps
-- 🤔 I’m looking for help with learning c++
+- 🤔 I’m looking for help with generative game design
 - 💬 Ask me about that time I got fed up with Zoom and made a video conferencing app to spite it.
 - 📫 How to reach me: [My email](mailto:epacholski86@gmail.com)
 - 😄 Pronouns: He/Him
