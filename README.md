@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🐍 I’m currently working on doing more with AWS
-- 🌱 I’m currently learning more SQL
+- 🐍 I’m currently working on Cloud-provider agnostic DevOps orchestration
+- 🌱 I’m currently learning more Kubernetes
 - 👯 I’m looking to collaborate on games and native apps
 - 🤔 I’m looking for help with generative game design
 - 💬 Ask me about that time I got fed up with Zoom and made a video conferencing app to spite it.
